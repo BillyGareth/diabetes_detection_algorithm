@@ -1,5 +1,5 @@
 # <font color='blue'> Diabetes Diagnostics
-This neural network helps in the accurate diagnosis of patients in risk of having the diabetes disease. Currently trained to an accuracy of over 99%
+This neural network helps in the accurate diagnosis of patients in risk of having the diabetes disease. Currently trained to an accuracy of over 99% and accuracy of 85% with another dataset with greater numerics'
 ! ....This is an awesome point hence could help in the diagnosis.
 
 ![](pics/diabetes_data.png)
