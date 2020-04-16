@@ -2,7 +2,7 @@
 This neural network helps in the accurate diagnosis of patients in risk of having the diabetes disease. Currently trained to an accuracy of over 99%
 ! ....This is an awesome point hence could help in the diagnosis.
 
-![](pics/diabetes_data.PNG)
+![](pics/diabetes_data.png)
 
 ## <font color='orange'>About the Data{it's for female patients}
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
